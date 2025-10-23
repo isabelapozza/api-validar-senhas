@@ -1,9 +1,4 @@
 # api-validar-senhas
-Entendido. Você quer um `README.md` que reflita exatamente o que *você* fez, focando na criação do `index.js` e nos testes que você executou no **Shell** do Replit.
-
-Aqui está um `README.md` reescrito com esse foco:
-
------
 
 # Microsserviço: Validador de Senhas (Node.js)
 
